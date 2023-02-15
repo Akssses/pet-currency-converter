@@ -1,2 +1,2 @@
 # pet-currency-converter
-![imgage](.)
+![img](img.png)
